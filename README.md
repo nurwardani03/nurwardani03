@@ -16,7 +16,7 @@
 
 ### 🛠️ Technologies I Use:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,python,tailwind,laravel,ci,mysql,js,ts,react,nextjs,nodejs,figma,git,github,vscode,xampp,laragon,bootstrap,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,python,tailwind,laravel,mysql,js,ts,react,nextjs,nodejs,figma,git,github,vscode,bootstrap,linux" />
 </p>
 
 ---
@@ -26,9 +26,9 @@
 <table>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/nur-wardani/ea-system">📌 project1</a></h4>
+      <h4><a href="https://github.com/nur-wardani/ea-system-public">📌 project1</a></h4>
       <p>No description provided</p>
-      <p><strong>Tech:</strong> JavaScript, HTML, CSS</p>
+      <p><strong>Tech:</strong>PHP Blade, HTML, Tailwind Css JavaScript</p>
     </td>
     <td width="50%">
       <h4><a href="https://github.com/username/project2">📌 project2</a></h4>
