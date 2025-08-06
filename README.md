@@ -31,9 +31,9 @@
       <p><strong>Tech:</strong>PHP Blade, HTML, Tailwind Css JavaScript</p>
     </td>
     <td width="50%">
-      <h4><a href="https://github.com/username/project2">📌 project2</a></h4>
-      <p>Deskripsi singkat tentang project ini</p>
-      <p><strong>Tech:</strong> Laravel, PHP</p>
+      <h4><a href="https://github.com/username/project2">📌 Comingsoon</a></h4>
+      <p> </p>
+      <p><strong>Tech:</strong>  </p>
     </td>
   </tr>
 </table>
