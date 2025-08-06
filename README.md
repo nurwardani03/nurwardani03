@@ -15,8 +15,8 @@
 ---
 
 ### 🛠️ Technologies I Use:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,tailwind,figma,git,github,vscode,bootstrap,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,tailwind,laravel,codeigniter,js,ts,react,nextjs,nodejs,figma,git,github,vscode,bootstrap,linux" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 📫 Connect With Me:
 <p>
-  <a href="https://linkedin.com/in/nur-wardani" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nur-wardani-72b283270" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nurwardani03@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/nrwrdani" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
