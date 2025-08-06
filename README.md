@@ -26,8 +26,8 @@
 <table>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/nur-wardani/ea-system-public">📌 project1</a></h4>
-      <p>No description provided</p>
+      <h4><a href="https://github.com/nur-wardani/ea-systems-public">📌 Easy Audit Systems</a></h4>
+      <p>System Audit 5S in Industruial Manufactur</p>
       <p><strong>Tech:</strong>PHP Blade, HTML, Tailwind Css JavaScript</p>
     </td>
     <td width="50%">
