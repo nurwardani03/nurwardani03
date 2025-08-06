@@ -16,7 +16,7 @@
 
 ### 🛠️ Technologies I Use:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,python,tailwind,laravel,codeigniter,js,ts,react,nextjs,nodejs,figma,git,github,vscode,bootstrap,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,python,tailwind,laravel,ci,mysql,js,ts,react,nextjs,nodejs,figma,git,github,vscode,xampp,laragon,bootstrap,linux" />
 </p>
 
 ---
